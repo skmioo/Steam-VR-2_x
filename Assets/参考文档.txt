@@ -1,0 +1,14 @@
+https://blog.csdn.net/sovida/article/details/115721142
+
+steamvr:
+https://github.com/ValveSoftware/steamvrunityplugin
+
+vrtk
+https://github.com/ExtendRealityLtd
+
+参考视频:
+Steam vr 2.0
+https://www.bilibili.com/video/BV1aZ4y1u7xt?p=2&vd_source=de04c72e52bc0ef0598f67660b0a0011
+vrtk
+https://www.bilibili.com/video/BV1tL411G7Uc/?spm_id_from=333.999.0.0&vd_source=de04c72e52bc0ef0598f67660b0a0011
+https://www.bilibili.com/video/BV1f84y1k7F5/?spm_id_from=333.999.0.0&vd_source=de04c72e52bc0ef0598f67660b0a0011
